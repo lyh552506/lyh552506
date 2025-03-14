@@ -1,6 +1,4 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyh552506)](https://github.com/lyh552506/github-readme-stats)
-
 
 - 🔭 I’m currently interested in MLSys/Compiler/LLM
 - 👯 I’m looking to collaborate on ...
